@@ -2,7 +2,8 @@
 Progetto di sistemi di controllo di gestione riferito all'analisi delle vendite, dei costi e degli scostamenti di un'azeinda X, della quale
 ci son stati consegnnati alcuni dataset (tabelle excel) contenutenti dati generali di un breve periodo.
 
-Per visualizzare in maniera corretta il programma, scaricare in locale la cartella "consegna" 
+Per visualizzare in maniera corretta il programma, creare in locale una cartella Consegna, unzippare CONSEGNA_parte1 in Consegna con 2 cartelle: FileExcel e Codice (nello zip si trova anche un terzo file che è il collegamento web con la presentazione del progetto); unzippare CONSEGNA_parte2 in Consegna con 1 cartella: build;
+unzippare l'unico file in CONSEGNA_parte3 in Consegna/build/frameRoot/. ; unzippare CONSEGNA_parte4 in Consegna/dist/frameRoot (creare quindi 2 cartelle dist e frameRoot dentro Consegna); unzippare CONSEGNA_parte5 in Consegna/dist/frameRoot
 
 Nella cartella "consegna" si trovano:
 - una cartella chiamata "codice" contente i file python con il codice del nostro progetto
