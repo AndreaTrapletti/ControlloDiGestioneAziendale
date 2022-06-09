@@ -3,7 +3,7 @@ il progetto è tutto compresso in uno zip; le dimensioni dello zip sono quindi s
 in Google Drive: 
 
 
-https://drive.google.com/drive/u/1/folders/11Df18RhAPV-I6Rcv_3ynS-IbvO9xAa29
+https://drive.google.com/drive/folders/11Df18RhAPV-I6Rcv_3ynS-IbvO9xAa29?usp=sharing
      
 
 Una volta fatto l'unzip in locale del progetto, troveremo una cartella "consegna" che contiene:
