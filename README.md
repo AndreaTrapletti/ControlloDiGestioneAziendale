@@ -18,6 +18,6 @@ Nella cartella "consegna" si trovano:
          USERNAME:    "admin"
          PASSWORD:   "admin"
          ATTENZIONE: quando il programma chiederà di inserire i file excel, bisogna caricarli dalla cartella
-         "FileExcel", questo perchè abbiamo cambiato i nomi dei file rispetto a quelli che ci erano stati consegnati
-         in quanto la nostra libreria python non riusciva a leggere gli spazi presenti nei nomi.
+         "FileExcel", e biosgna caricarli tutti.
+  
 - un link per aprire una pagina web che contiene la nostra presentazione, realizzata tramite il software Prezi
