@@ -1,6 +1,9 @@
 # ControlloDiGestioneAziendale
 il progetto è tutto compresso in uno zip; le dimensioni dello zip sono quindi superiori a quelle consentite dallo standard GitHub, perciò ho deciso di caricarle 
 in Google Drive: 
+
+
+https://drive.google.com/drive/u/1/folders/11Df18RhAPV-I6Rcv_3ynS-IbvO9xAa29
      
 
 Una volta fatto l'unzip in locale del progetto, troveremo una cartella "consegna" che contiene:
